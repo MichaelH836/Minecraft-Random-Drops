@@ -1,0 +1,6 @@
+name: RandomDrops
+version: 1.0
+api-version: 1.16
+author: Michael Herron
+main: com.michaelherron.randomdrops.Main
+description: Every block and mob drop is changed to a random block!
